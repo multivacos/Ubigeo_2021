@@ -7407,5 +7407,1637 @@ var distritos = [{
                 "distrito": "Yaguas"
             }
         ]
+    },
+    {
+        "1701": [{
+                "coddistrito": "170101",
+                "distrito": "Tambopata"
+            },
+            {
+                "coddistrito": "170102",
+                "distrito": "Inambari"
+            },
+            {
+                "coddistrito": "170103",
+                "distrito": "Las Piedras"
+            },
+            {
+                "coddistrito": "170104",
+                "distrito": "Laberinto"
+            }
+        ]
+    },
+    {
+        "1702": [{
+                "coddistrito": "170201",
+                "distrito": "Manu"
+            },
+            {
+                "coddistrito": "170202",
+                "distrito": "Fitzcarrald"
+            },
+            {
+                "coddistrito": "170203",
+                "distrito": "Madre de Dios"
+            },
+            {
+                "coddistrito": "170204",
+                "distrito": "Huepetuhe"
+            }
+        ]
+    },
+    {
+        "1703": [{
+                "coddistrito": "170301",
+                "distrito": "Iñapari"
+            },
+            {
+                "coddistrito": "170302",
+                "distrito": "Iberia"
+            },
+            {
+                "coddistrito": "170303",
+                "distrito": "Tahuamanu"
+            }
+        ]
+    },
+    {
+        "1801": [{
+                "coddistrito": "180101",
+                "distrito": "Moquegua"
+            },
+            {
+                "coddistrito": "180102",
+                "distrito": "Carumas"
+            },
+            {
+                "coddistrito": "180103",
+                "distrito": "Cuchumbaya"
+            },
+            {
+                "coddistrito": "180104",
+                "distrito": "Samegua"
+            },
+            {
+                "coddistrito": "180105",
+                "distrito": "San Cristobal"
+            },
+            {
+                "coddistrito": "180106",
+                "distrito": "Torata"
+            }
+        ]
+    },
+    {
+        "1802": [{
+                "coddistrito": "180201",
+                "distrito": "Omate"
+            },
+            {
+                "coddistrito": "180202",
+                "distrito": "Chojata"
+            },
+            {
+                "coddistrito": "180203",
+                "distrito": "Coalaque"
+            },
+            {
+                "coddistrito": "180204",
+                "distrito": "Ichuña"
+            },
+            {
+                "coddistrito": "180205",
+                "distrito": "La Capilla"
+            },
+            {
+                "coddistrito": "180206",
+                "distrito": "Lloque"
+            },
+            {
+                "coddistrito": "180207",
+                "distrito": "Matalaque"
+            },
+            {
+                "coddistrito": "180208",
+                "distrito": "Puquina"
+            },
+            {
+                "coddistrito": "180209",
+                "distrito": "Quinistaquillas"
+            },
+            {
+                "coddistrito": "180210",
+                "distrito": "Ubinas"
+            },
+            {
+                "coddistrito": "180211",
+                "distrito": "Yunga"
+            }
+        ]
+    },
+    {
+        "1803": [{
+                "coddistrito": "180301",
+                "distrito": "Ilo"
+            },
+            {
+                "coddistrito": "180302",
+                "distrito": "El Algarrobal"
+            },
+            {
+                "coddistrito": "180303",
+                "distrito": "Pacocha"
+            }
+        ]
+    },
+    {
+        "1901": [{
+                "coddistrito": "190101",
+                "distrito": "Chaupimarca"
+            },
+            {
+                "coddistrito": "190102",
+                "distrito": "Huachon"
+            },
+            {
+                "coddistrito": "190103",
+                "distrito": "Huariaca"
+            },
+            {
+                "coddistrito": "190104",
+                "distrito": "Huayllay"
+            },
+            {
+                "coddistrito": "190105",
+                "distrito": "Ninacaca"
+            },
+            {
+                "coddistrito": "190106",
+                "distrito": "Pallanchacra"
+            },
+            {
+                "coddistrito": "190107",
+                "distrito": "Paucartambo"
+            },
+            {
+                "coddistrito": "190108",
+                "distrito": "San Francisco de Asis de Yarusyacan"
+            },
+            {
+                "coddistrito": "190109",
+                "distrito": "Simon Bolivar"
+            },
+            {
+                "coddistrito": "190110",
+                "distrito": "Ticlacayan"
+            },
+            {
+                "coddistrito": "190111",
+                "distrito": "Tinyahuarco"
+            },
+            {
+                "coddistrito": "190112",
+                "distrito": "Vicco"
+            },
+            {
+                "coddistrito": "190113",
+                "distrito": "Yanacancha"
+            }
+        ]
+    },
+    {
+        "1902": [{
+                "coddistrito": "190201",
+                "distrito": "Yanahuanca"
+            },
+            {
+                "coddistrito": "190202",
+                "distrito": "Chacayan"
+            },
+            {
+                "coddistrito": "190203",
+                "distrito": "Goyllarisquizga"
+            },
+            {
+                "coddistrito": "190204",
+                "distrito": "Paucar"
+            },
+            {
+                "coddistrito": "190205",
+                "distrito": "San Pedro de Pillao"
+            },
+            {
+                "coddistrito": "190206",
+                "distrito": "Santa Ana de Tusi"
+            },
+            {
+                "coddistrito": "190207",
+                "distrito": "Tapuc"
+            },
+            {
+                "coddistrito": "190208",
+                "distrito": "Vilcabamba"
+            }
+        ]
+    },
+    {
+        "1903": [{
+                "coddistrito": "190301",
+                "distrito": "Oxapampa"
+            },
+            {
+                "coddistrito": "190302",
+                "distrito": "Chontabamba"
+            },
+            {
+                "coddistrito": "190303",
+                "distrito": "Huancabamba"
+            },
+            {
+                "coddistrito": "190304",
+                "distrito": "Palcazu"
+            },
+            {
+                "coddistrito": "190305",
+                "distrito": "Pozuzo"
+            },
+            {
+                "coddistrito": "190306",
+                "distrito": "Puerto Bermudez"
+            },
+            {
+                "coddistrito": "190307",
+                "distrito": "Villa Rica"
+            },
+            {
+                "coddistrito": "190308",
+                "distrito": "Constitución"
+            }
+        ]
+    },
+    {
+        "2001": [{
+                "coddistrito": "200101",
+                "distrito": "Piura"
+            },
+            {
+                "coddistrito": "200104",
+                "distrito": "Castilla"
+            },
+            {
+                "coddistrito": "200105",
+                "distrito": "Catacaos"
+            },
+            {
+                "coddistrito": "200107",
+                "distrito": "Cura Mori"
+            },
+            {
+                "coddistrito": "200108",
+                "distrito": "El Tallan"
+            },
+            {
+                "coddistrito": "200109",
+                "distrito": "La Arena"
+            },
+            {
+                "coddistrito": "200110",
+                "distrito": "La Union"
+            },
+            {
+                "coddistrito": "200111",
+                "distrito": "Las Lomas"
+            },
+            {
+                "coddistrito": "200114",
+                "distrito": "Tambo Grande"
+            },
+            {
+                "coddistrito": "200115",
+                "distrito": "26 de Octubre"
+            }
+        ]
+    },
+    {
+        "2002": [{
+                "coddistrito": "200201",
+                "distrito": "Ayabaca"
+            },
+            {
+                "coddistrito": "200202",
+                "distrito": "Frias"
+            },
+            {
+                "coddistrito": "200203",
+                "distrito": "Jilili"
+            },
+            {
+                "coddistrito": "200204",
+                "distrito": "Lagunas"
+            },
+            {
+                "coddistrito": "200205",
+                "distrito": "Montero"
+            },
+            {
+                "coddistrito": "200206",
+                "distrito": "Pacaipampa"
+            },
+            {
+                "coddistrito": "200207",
+                "distrito": "Paimas"
+            },
+            {
+                "coddistrito": "200208",
+                "distrito": "Sapillica"
+            },
+            {
+                "coddistrito": "200209",
+                "distrito": "Sicchez"
+            },
+            {
+                "coddistrito": "200210",
+                "distrito": "Suyo"
+            }
+        ]
+    },
+    {
+        "2003": [{
+                "coddistrito": "200301",
+                "distrito": "Huancabamba"
+            },
+            {
+                "coddistrito": "200302",
+                "distrito": "Canchaque"
+            },
+            {
+                "coddistrito": "200303",
+                "distrito": "El Carmen de La Frontera"
+            },
+            {
+                "coddistrito": "200304",
+                "distrito": "Huarmaca"
+            },
+            {
+                "coddistrito": "200305",
+                "distrito": "Lalaquiz"
+            },
+            {
+                "coddistrito": "200306",
+                "distrito": "San Miguel de El Faique"
+            },
+            {
+                "coddistrito": "200307",
+                "distrito": "Sondor"
+            },
+            {
+                "coddistrito": "200308",
+                "distrito": "Sondorillo"
+            }
+        ]
+    },
+    {
+        "2004": [{
+                "coddistrito": "200401",
+                "distrito": "Chulucanas"
+            },
+            {
+                "coddistrito": "200402",
+                "distrito": "Buenos Aires"
+            },
+            {
+                "coddistrito": "200403",
+                "distrito": "Chalaco"
+            },
+            {
+                "coddistrito": "200404",
+                "distrito": "La Matanza"
+            },
+            {
+                "coddistrito": "200405",
+                "distrito": "Morropon"
+            },
+            {
+                "coddistrito": "200406",
+                "distrito": "Salitral"
+            },
+            {
+                "coddistrito": "200407",
+                "distrito": "San Juan de Bigote"
+            },
+            {
+                "coddistrito": "200408",
+                "distrito": "Santa Catalina de Mossa"
+            },
+            {
+                "coddistrito": "200409",
+                "distrito": "Santo Domingo"
+            },
+            {
+                "coddistrito": "200410",
+                "distrito": "Yamango"
+            }
+        ]
+    },
+    {
+        "2005": [{
+                "coddistrito": "200501",
+                "distrito": "Paita"
+            },
+            {
+                "coddistrito": "200502",
+                "distrito": "Amotape"
+            },
+            {
+                "coddistrito": "200503",
+                "distrito": "Arenal"
+            },
+            {
+                "coddistrito": "200504",
+                "distrito": "Colan"
+            },
+            {
+                "coddistrito": "200505",
+                "distrito": "La Huaca"
+            },
+            {
+                "coddistrito": "200506",
+                "distrito": "Tamarindo"
+            },
+            {
+                "coddistrito": "200507",
+                "distrito": "Vichayal"
+            }
+        ]
+    },
+    {
+        "2006": [{
+                "coddistrito": "200601",
+                "distrito": "Sullana"
+            },
+            {
+                "coddistrito": "200602",
+                "distrito": "Bellavista"
+            },
+            {
+                "coddistrito": "200603",
+                "distrito": "Ignacio Escudero"
+            },
+            {
+                "coddistrito": "200604",
+                "distrito": "Lancones"
+            },
+            {
+                "coddistrito": "200605",
+                "distrito": "Marcavelica"
+            },
+            {
+                "coddistrito": "200606",
+                "distrito": "Miguel Checa"
+            },
+            {
+                "coddistrito": "200607",
+                "distrito": "Querecotillo"
+            },
+            {
+                "coddistrito": "200608",
+                "distrito": "Salitral"
+            }
+        ]
+    },
+    {
+        "2007": [{
+                "coddistrito": "200701",
+                "distrito": "Pariñas"
+            },
+            {
+                "coddistrito": "200702",
+                "distrito": "El Alto"
+            },
+            {
+                "coddistrito": "200703",
+                "distrito": "La Brea"
+            },
+            {
+                "coddistrito": "200704",
+                "distrito": "Lobitos"
+            },
+            {
+                "coddistrito": "200705",
+                "distrito": "Los Organos"
+            },
+            {
+                "coddistrito": "200706",
+                "distrito": "Mancora"
+            }
+        ]
+    },
+    {
+        "2008": [{
+                "coddistrito": "200801",
+                "distrito": "Sechura"
+            },
+            {
+                "coddistrito": "200802",
+                "distrito": "Bellavista de La Union"
+            },
+            {
+                "coddistrito": "200803",
+                "distrito": "Bernal"
+            },
+            {
+                "coddistrito": "200804",
+                "distrito": "Cristo Nos Valga"
+            },
+            {
+                "coddistrito": "200805",
+                "distrito": "Vice"
+            },
+            {
+                "coddistrito": "200806",
+                "distrito": "Rinconada Llicuar"
+            }
+        ]
+    },
+    {
+        "2101": [{
+                "coddistrito": "210101",
+                "distrito": "Puno"
+            },
+            {
+                "coddistrito": "210102",
+                "distrito": "Acora"
+            },
+            {
+                "coddistrito": "210103",
+                "distrito": "Amantani"
+            },
+            {
+                "coddistrito": "210104",
+                "distrito": "Atuncolla"
+            },
+            {
+                "coddistrito": "210105",
+                "distrito": "Capachica"
+            },
+            {
+                "coddistrito": "210106",
+                "distrito": "Chucuito"
+            },
+            {
+                "coddistrito": "210107",
+                "distrito": "Coata"
+            },
+            {
+                "coddistrito": "210108",
+                "distrito": "Huata"
+            },
+            {
+                "coddistrito": "210109",
+                "distrito": "Mañazo"
+            },
+            {
+                "coddistrito": "210110",
+                "distrito": "Paucarcolla"
+            },
+            {
+                "coddistrito": "210111",
+                "distrito": "Pichacani"
+            },
+            {
+                "coddistrito": "210112",
+                "distrito": "Plateria"
+            },
+            {
+                "coddistrito": "210113",
+                "distrito": "San Antonio"
+            },
+            {
+                "coddistrito": "210114",
+                "distrito": "Tiquillaca"
+            },
+            {
+                "coddistrito": "210115",
+                "distrito": "Vilque"
+            }
+        ]
+    },
+    {
+        "2102": [{
+                "coddistrito": "210201",
+                "distrito": "Azangaro"
+            },
+            {
+                "coddistrito": "210202",
+                "distrito": "Achaya"
+            },
+            {
+                "coddistrito": "210203",
+                "distrito": "Arapa"
+            },
+            {
+                "coddistrito": "210204",
+                "distrito": "Asillo"
+            },
+            {
+                "coddistrito": "210205",
+                "distrito": "Caminaca"
+            },
+            {
+                "coddistrito": "210206",
+                "distrito": "Chupa"
+            },
+            {
+                "coddistrito": "210207",
+                "distrito": "Jose Domingo Choquehuanca"
+            },
+            {
+                "coddistrito": "210208",
+                "distrito": "Muñani"
+            },
+            {
+                "coddistrito": "210209",
+                "distrito": "Potoni"
+            },
+            {
+                "coddistrito": "210210",
+                "distrito": "Saman"
+            },
+            {
+                "coddistrito": "210211",
+                "distrito": "San Anton"
+            },
+            {
+                "coddistrito": "210212",
+                "distrito": "San Jose"
+            },
+            {
+                "coddistrito": "210213",
+                "distrito": "San Juan de Salinas"
+            },
+            {
+                "coddistrito": "210214",
+                "distrito": "Santiago de Pupuja"
+            },
+            {
+                "coddistrito": "210215",
+                "distrito": "Tirapata"
+            }
+        ]
+    },
+    {
+        "2103": [{
+                "coddistrito": "210301",
+                "distrito": "Macusani"
+            },
+            {
+                "coddistrito": "210302",
+                "distrito": "Ajoyani"
+            },
+            {
+                "coddistrito": "210303",
+                "distrito": "Ayapata"
+            },
+            {
+                "coddistrito": "210304",
+                "distrito": "Coasa"
+            },
+            {
+                "coddistrito": "210305",
+                "distrito": "Corani"
+            },
+            {
+                "coddistrito": "210306",
+                "distrito": "Crucero"
+            },
+            {
+                "coddistrito": "210307",
+                "distrito": "Ituata"
+            },
+            {
+                "coddistrito": "210308",
+                "distrito": "Ollachea"
+            },
+            {
+                "coddistrito": "210309",
+                "distrito": "San Gaban"
+            },
+            {
+                "coddistrito": "210310",
+                "distrito": "Usicayos"
+            }
+        ]
+    },
+    {
+        "2104": [{
+                "coddistrito": "210401",
+                "distrito": "Juli"
+            },
+            {
+                "coddistrito": "210402",
+                "distrito": "Desaguadero"
+            },
+            {
+                "coddistrito": "210403",
+                "distrito": "Huacullani"
+            },
+            {
+                "coddistrito": "210404",
+                "distrito": "Kelluyo"
+            },
+            {
+                "coddistrito": "210405",
+                "distrito": "Pisacoma"
+            },
+            {
+                "coddistrito": "210406",
+                "distrito": "Pomata"
+            },
+            {
+                "coddistrito": "210407",
+                "distrito": "Zepita"
+            }
+        ]
+    },
+    {
+        "2105": [{
+                "coddistrito": "210501",
+                "distrito": "Ilave"
+            },
+            {
+                "coddistrito": "210502",
+                "distrito": "Capazo"
+            },
+            {
+                "coddistrito": "210503",
+                "distrito": "Pilcuyo"
+            },
+            {
+                "coddistrito": "210504",
+                "distrito": "Santa Rosa"
+            },
+            {
+                "coddistrito": "210505",
+                "distrito": "Conduriri"
+            }
+        ]
+    },
+    {
+        "2106": [{
+                "coddistrito": "210601",
+                "distrito": "Huancane"
+            },
+            {
+                "coddistrito": "210602",
+                "distrito": "Cojata"
+            },
+            {
+                "coddistrito": "210603",
+                "distrito": "Huatasani"
+            },
+            {
+                "coddistrito": "210604",
+                "distrito": "Inchupalla"
+            },
+            {
+                "coddistrito": "210605",
+                "distrito": "Pusi"
+            },
+            {
+                "coddistrito": "210606",
+                "distrito": "Rosaspata"
+            },
+            {
+                "coddistrito": "210607",
+                "distrito": "Taraco"
+            },
+            {
+                "coddistrito": "210608",
+                "distrito": "Vilque Chico"
+            }
+        ]
+    },
+    {
+        "2107": [{
+                "coddistrito": "210701",
+                "distrito": "Lampa"
+            },
+            {
+                "coddistrito": "210702",
+                "distrito": "Cabanilla"
+            },
+            {
+                "coddistrito": "210703",
+                "distrito": "Calapuja"
+            },
+            {
+                "coddistrito": "210704",
+                "distrito": "Nicasio"
+            },
+            {
+                "coddistrito": "210705",
+                "distrito": "Ocuviri"
+            },
+            {
+                "coddistrito": "210706",
+                "distrito": "Palca"
+            },
+            {
+                "coddistrito": "210707",
+                "distrito": "Paratia"
+            },
+            {
+                "coddistrito": "210708",
+                "distrito": "Pucara"
+            },
+            {
+                "coddistrito": "210709",
+                "distrito": "Santa Lucia"
+            },
+            {
+                "coddistrito": "210710",
+                "distrito": "Vilavila"
+            }
+        ]
+    },
+    {
+        "2108": [{
+                "coddistrito": "210801",
+                "distrito": "Ayaviri"
+            },
+            {
+                "coddistrito": "210802",
+                "distrito": "Antauta"
+            },
+            {
+                "coddistrito": "210803",
+                "distrito": "Cupi"
+            },
+            {
+                "coddistrito": "210804",
+                "distrito": "Llalli"
+            },
+            {
+                "coddistrito": "210805",
+                "distrito": "Macari"
+            },
+            {
+                "coddistrito": "210806",
+                "distrito": "Nuñoa"
+            },
+            {
+                "coddistrito": "210807",
+                "distrito": "Orurillo"
+            },
+            {
+                "coddistrito": "210808",
+                "distrito": "Santa Rosa"
+            },
+            {
+                "coddistrito": "210809",
+                "distrito": "Umachiri"
+            }
+        ]
+    },
+    {
+        "2109": [{
+                "coddistrito": "210901",
+                "distrito": "Moho"
+            },
+            {
+                "coddistrito": "210902",
+                "distrito": "Conima"
+            },
+            {
+                "coddistrito": "210903",
+                "distrito": "Huayrapata"
+            },
+            {
+                "coddistrito": "210904",
+                "distrito": "Tilali"
+            }
+        ]
+    },
+    {
+        "2110": [{
+                "coddistrito": "211001",
+                "distrito": "Putina"
+            },
+            {
+                "coddistrito": "211002",
+                "distrito": "Ananea"
+            },
+            {
+                "coddistrito": "211003",
+                "distrito": "Pedro Vilca Apaza"
+            },
+            {
+                "coddistrito": "211004",
+                "distrito": "Quilcapuncu"
+            },
+            {
+                "coddistrito": "211005",
+                "distrito": "Sina"
+            }
+        ]
+    },
+    {
+        "2111": [{
+                "coddistrito": "211101",
+                "distrito": "Juliaca"
+            },
+            {
+                "coddistrito": "211102",
+                "distrito": "Cabana"
+            },
+            {
+                "coddistrito": "211103",
+                "distrito": "Cabanillas"
+            },
+            {
+                "coddistrito": "211104",
+                "distrito": "Caracoto"
+            },
+            {
+                "coddistrito": "211105",
+                "distrito": "San Miguel"
+            }
+        ]
+    },
+    {
+        "2112": [{
+                "coddistrito": "211201",
+                "distrito": "Sandia"
+            },
+            {
+                "coddistrito": "211202",
+                "distrito": "Cuyocuyo"
+            },
+            {
+                "coddistrito": "211203",
+                "distrito": "Limbani"
+            },
+            {
+                "coddistrito": "211204",
+                "distrito": "Patambuco"
+            },
+            {
+                "coddistrito": "211205",
+                "distrito": "Phara"
+            },
+            {
+                "coddistrito": "211206",
+                "distrito": "Quiaca"
+            },
+            {
+                "coddistrito": "211207",
+                "distrito": "San Juan del Oro"
+            },
+            {
+                "coddistrito": "211208",
+                "distrito": "Yanahuaya"
+            },
+            {
+                "coddistrito": "211209",
+                "distrito": "Alto Inambari"
+            },
+            {
+                "coddistrito": "211210",
+                "distrito": "San Pedro de Putina Punco"
+            }
+        ]
+    },
+    {
+        "2113": [{
+                "coddistrito": "211301",
+                "distrito": "Yunguyo"
+            },
+            {
+                "coddistrito": "211302",
+                "distrito": "Anapia"
+            },
+            {
+                "coddistrito": "211303",
+                "distrito": "Copani"
+            },
+            {
+                "coddistrito": "211304",
+                "distrito": "Cuturapi"
+            },
+            {
+                "coddistrito": "211305",
+                "distrito": "Ollaraya"
+            },
+            {
+                "coddistrito": "211306",
+                "distrito": "Tinicachi"
+            },
+            {
+                "coddistrito": "211307",
+                "distrito": "Unicachi"
+            }
+        ]
+    },
+    {
+        "2201": [{
+                "coddistrito": "220101",
+                "distrito": "Moyobamba"
+            },
+            {
+                "coddistrito": "220102",
+                "distrito": "Calzada"
+            },
+            {
+                "coddistrito": "220103",
+                "distrito": "Habana"
+            },
+            {
+                "coddistrito": "220104",
+                "distrito": "Jepelacio"
+            },
+            {
+                "coddistrito": "220105",
+                "distrito": "Soritor"
+            },
+            {
+                "coddistrito": "220106",
+                "distrito": "Yantalo"
+            }
+        ]
+    },
+    {
+        "2202": [{
+                "coddistrito": "220201",
+                "distrito": "Bellavista"
+            },
+            {
+                "coddistrito": "220202",
+                "distrito": "Alto Biavo"
+            },
+            {
+                "coddistrito": "220203",
+                "distrito": "Bajo Biavo"
+            },
+            {
+                "coddistrito": "220204",
+                "distrito": "Huallaga"
+            },
+            {
+                "coddistrito": "220205",
+                "distrito": "San Pablo"
+            },
+            {
+                "coddistrito": "220206",
+                "distrito": "San Rafael"
+            }
+        ]
+    },
+    {
+        "2203": [{
+                "coddistrito": "220301",
+                "distrito": "San Jose de Sisa"
+            },
+            {
+                "coddistrito": "220302",
+                "distrito": "Agua Blanca"
+            },
+            {
+                "coddistrito": "220303",
+                "distrito": "San Martin"
+            },
+            {
+                "coddistrito": "220304",
+                "distrito": "Santa Rosa"
+            },
+            {
+                "coddistrito": "220305",
+                "distrito": "Shatoja"
+            }
+        ]
+    },
+    {
+        "2204": [{
+                "coddistrito": "220401",
+                "distrito": "Saposoa"
+            },
+            {
+                "coddistrito": "220402",
+                "distrito": "Alto Saposoa"
+            },
+            {
+                "coddistrito": "220403",
+                "distrito": "El Eslabon"
+            },
+            {
+                "coddistrito": "220404",
+                "distrito": "Piscoyacu"
+            },
+            {
+                "coddistrito": "220405",
+                "distrito": "Sacanche"
+            },
+            {
+                "coddistrito": "220406",
+                "distrito": "Tingo de Saposoa"
+            }
+        ]
+    },
+    {
+        "2205": [{
+                "coddistrito": "220501",
+                "distrito": "Lamas"
+            },
+            {
+                "coddistrito": "220502",
+                "distrito": "Alonso de Alvarado"
+            },
+            {
+                "coddistrito": "220503",
+                "distrito": "Barranquita"
+            },
+            {
+                "coddistrito": "220504",
+                "distrito": "Caynarachi"
+            },
+            {
+                "coddistrito": "220505",
+                "distrito": "Cuñumbuqui"
+            },
+            {
+                "coddistrito": "220506",
+                "distrito": "Pinto Recodo"
+            },
+            {
+                "coddistrito": "220507",
+                "distrito": "Rumisapa"
+            },
+            {
+                "coddistrito": "220508",
+                "distrito": "San Roque de Cumbaza"
+            },
+            {
+                "coddistrito": "220509",
+                "distrito": "Shanao"
+            },
+            {
+                "coddistrito": "220510",
+                "distrito": "Tabalosos"
+            },
+            {
+                "coddistrito": "220511",
+                "distrito": "Zapatero"
+            }
+        ]
+    },
+    {
+        "2206": [{
+                "coddistrito": "220601",
+                "distrito": "Juanjui"
+            },
+            {
+                "coddistrito": "220602",
+                "distrito": "Campanilla"
+            },
+            {
+                "coddistrito": "220603",
+                "distrito": "Huicungo"
+            },
+            {
+                "coddistrito": "220604",
+                "distrito": "Pachiza"
+            },
+            {
+                "coddistrito": "220605",
+                "distrito": "Pajarillo"
+            }
+        ]
+    },
+    {
+        "2207": [{
+                "coddistrito": "220701",
+                "distrito": "Picota"
+            },
+            {
+                "coddistrito": "220702",
+                "distrito": "Buenos Aires"
+            },
+            {
+                "coddistrito": "220703",
+                "distrito": "Caspisapa"
+            },
+            {
+                "coddistrito": "220704",
+                "distrito": "Pilluana"
+            },
+            {
+                "coddistrito": "220705",
+                "distrito": "Pucacaca"
+            },
+            {
+                "coddistrito": "220706",
+                "distrito": "San Cristobal"
+            },
+            {
+                "coddistrito": "220707",
+                "distrito": "San Hilarion"
+            },
+            {
+                "coddistrito": "220708",
+                "distrito": "Shamboyacu"
+            },
+            {
+                "coddistrito": "220709",
+                "distrito": "Tingo de Ponasa"
+            },
+            {
+                "coddistrito": "220710",
+                "distrito": "Tres Unidos"
+            }
+        ]
+    },
+    {
+        "2208": [{
+                "coddistrito": "220801",
+                "distrito": "Rioja"
+            },
+            {
+                "coddistrito": "220802",
+                "distrito": "Awajun"
+            },
+            {
+                "coddistrito": "220803",
+                "distrito": "Elias Soplin Vargas"
+            },
+            {
+                "coddistrito": "220804",
+                "distrito": "Nueva Cajamarca"
+            },
+            {
+                "coddistrito": "220805",
+                "distrito": "Pardo Miguel"
+            },
+            {
+                "coddistrito": "220806",
+                "distrito": "Posic"
+            },
+            {
+                "coddistrito": "220807",
+                "distrito": "San Fernando"
+            },
+            {
+                "coddistrito": "220808",
+                "distrito": "Yorongos"
+            },
+            {
+                "coddistrito": "220809",
+                "distrito": "Yuracyacu"
+            }
+        ]
+    },
+    {
+        "2209": [{
+                "coddistrito": "220901",
+                "distrito": "Tarapoto"
+            },
+            {
+                "coddistrito": "220902",
+                "distrito": "Alberto Leveau"
+            },
+            {
+                "coddistrito": "220903",
+                "distrito": "Cacatachi"
+            },
+            {
+                "coddistrito": "220904",
+                "distrito": "Chazuta"
+            },
+            {
+                "coddistrito": "220905",
+                "distrito": "Chipurana"
+            },
+            {
+                "coddistrito": "220906",
+                "distrito": "El Porvenir"
+            },
+            {
+                "coddistrito": "220907",
+                "distrito": "Huimbayoc"
+            },
+            {
+                "coddistrito": "220908",
+                "distrito": "Juan Guerra"
+            },
+            {
+                "coddistrito": "220909",
+                "distrito": "La Banda de Shilcayo"
+            },
+            {
+                "coddistrito": "220910",
+                "distrito": "Morales"
+            },
+            {
+                "coddistrito": "220911",
+                "distrito": "Papaplaya"
+            },
+            {
+                "coddistrito": "220912",
+                "distrito": "San Antonio"
+            },
+            {
+                "coddistrito": "220913",
+                "distrito": "Sauce"
+            },
+            {
+                "coddistrito": "220914",
+                "distrito": "Shapaja"
+            }
+        ]
+    },
+    {
+        "2210": [{
+                "coddistrito": "221001",
+                "distrito": "Tocache"
+            },
+            {
+                "coddistrito": "221002",
+                "distrito": "Nuevo Progreso"
+            },
+            {
+                "coddistrito": "221003",
+                "distrito": "Polvora"
+            },
+            {
+                "coddistrito": "221004",
+                "distrito": "Shunte"
+            },
+            {
+                "coddistrito": "221005",
+                "distrito": "Uchiza"
+            }
+        ]
+    },
+    {
+        "2301": [{
+                "coddistrito": "230101",
+                "distrito": "Tacna"
+            },
+            {
+                "coddistrito": "230102",
+                "distrito": "Alto de La Alianza"
+            },
+            {
+                "coddistrito": "230103",
+                "distrito": "Calana"
+            },
+            {
+                "coddistrito": "230104",
+                "distrito": "Ciudad Nueva"
+            },
+            {
+                "coddistrito": "230105",
+                "distrito": "Inclan"
+            },
+            {
+                "coddistrito": "230106",
+                "distrito": "Pachia"
+            },
+            {
+                "coddistrito": "230107",
+                "distrito": "Palca"
+            },
+            {
+                "coddistrito": "230108",
+                "distrito": "Pocollay"
+            },
+            {
+                "coddistrito": "230109",
+                "distrito": "Sama"
+            },
+            {
+                "coddistrito": "230110",
+                "distrito": "Coronel Gregorio Albarracin Lanchipa"
+            },
+            {
+                "coddistrito": "230111",
+                "distrito": "La Yarada-Los Palos"
+            }
+        ]
+    },
+    {
+        "2302": [{
+                "coddistrito": "230201",
+                "distrito": "Candarave"
+            },
+            {
+                "coddistrito": "230202",
+                "distrito": "Cairani"
+            },
+            {
+                "coddistrito": "230203",
+                "distrito": "Camilaca"
+            },
+            {
+                "coddistrito": "230204",
+                "distrito": "Curibaya"
+            },
+            {
+                "coddistrito": "230205",
+                "distrito": "Huanuara"
+            },
+            {
+                "coddistrito": "230206",
+                "distrito": "Quilahuani"
+            }
+        ]
+    },
+    {
+        "2303": [{
+                "coddistrito": "230301",
+                "distrito": "Locumba"
+            },
+            {
+                "coddistrito": "230302",
+                "distrito": "Ilabaya"
+            },
+            {
+                "coddistrito": "230303",
+                "distrito": "Ite"
+            }
+        ]
+    },
+    {
+        "2304": [{
+                "coddistrito": "230401",
+                "distrito": "Tarata"
+            },
+            {
+                "coddistrito": "230402",
+                "distrito": "Heroes Albarracin"
+            },
+            {
+                "coddistrito": "230403",
+                "distrito": "Estique"
+            },
+            {
+                "coddistrito": "230404",
+                "distrito": "Estique-Pampa"
+            },
+            {
+                "coddistrito": "230405",
+                "distrito": "Sitajara"
+            },
+            {
+                "coddistrito": "230406",
+                "distrito": "Susapaya"
+            },
+            {
+                "coddistrito": "230407",
+                "distrito": "Tarucachi"
+            },
+            {
+                "coddistrito": "230408",
+                "distrito": "Ticaco"
+            }
+        ]
+    },
+    {
+        "2401": [{
+                "coddistrito": "240101",
+                "distrito": "Tumbes"
+            },
+            {
+                "coddistrito": "240102",
+                "distrito": "Corrales"
+            },
+            {
+                "coddistrito": "240103",
+                "distrito": "La Cruz"
+            },
+            {
+                "coddistrito": "240104",
+                "distrito": "Pampas de Hospital"
+            },
+            {
+                "coddistrito": "240105",
+                "distrito": "San Jacinto"
+            },
+            {
+                "coddistrito": "240106",
+                "distrito": "San Juan de La Virgen"
+            }
+        ]
+    },
+    {
+        "2402": [{
+                "coddistrito": "240201",
+                "distrito": "Zorritos"
+            },
+            {
+                "coddistrito": "240202",
+                "distrito": "Casitas"
+            },
+            {
+                "coddistrito": "240203",
+                "distrito": "Canoas de Punta Sal"
+            }
+        ]
+    },
+    {
+        "2403": [{
+                "coddistrito": "240301",
+                "distrito": "Zarumilla"
+            },
+            {
+                "coddistrito": "240302",
+                "distrito": "Aguas Verdes"
+            },
+            {
+                "coddistrito": "240303",
+                "distrito": "Matapalo"
+            },
+            {
+                "coddistrito": "240304",
+                "distrito": "Papayal"
+            }
+        ]
+    },
+    {
+        "2501": [{
+                "coddistrito": "250101",
+                "distrito": "Calleria"
+            },
+            {
+                "coddistrito": "250102",
+                "distrito": "Campoverde"
+            },
+            {
+                "coddistrito": "250103",
+                "distrito": "Iparia"
+            },
+            {
+                "coddistrito": "250104",
+                "distrito": "Masisea"
+            },
+            {
+                "coddistrito": "250105",
+                "distrito": "Yarinacocha"
+            },
+            {
+                "coddistrito": "250106",
+                "distrito": "Nueva Requena"
+            },
+            {
+                "coddistrito": "250107",
+                "distrito": "Manantay"
+            }
+        ]
+    },
+    {
+        "2502": [{
+                "coddistrito": "250201",
+                "distrito": "Raymondi"
+            },
+            {
+                "coddistrito": "250202",
+                "distrito": "Sepahua"
+            },
+            {
+                "coddistrito": "250203",
+                "distrito": "Tahuania"
+            },
+            {
+                "coddistrito": "250204",
+                "distrito": "Yurua"
+            }
+        ]
+    },
+    {
+        "2503": [{
+                "coddistrito": "250301",
+                "distrito": "Padre Abad"
+            },
+            {
+                "coddistrito": "250302",
+                "distrito": "Irazola"
+            },
+            {
+                "coddistrito": "250303",
+                "distrito": "Curimana"
+            },
+            {
+                "coddistrito": "250304",
+                "distrito": "Neshuya"
+            },
+            {
+                "coddistrito": "250305",
+                "distrito": "Alexander von Humboldt"
+            }
+        ]
+    },
+    {
+        "2504": [{
+            "coddistrito": "250401",
+            "distrito": "Purus"
+        }]
     }
 ];
